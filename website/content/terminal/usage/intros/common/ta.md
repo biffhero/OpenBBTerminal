@@ -234,7 +234,7 @@ Clicking and dragging the mouse near the corners at each axis allows the zooming
 Looking at the one-minute on-balance volume of QQQ today (April 21, 2023) reveals that massive volume spike occurred at 11:04.  The ceiling is now the floor.
 
 ```console
-load qqq -i 1 -s 2023-04-21/macd
+load qqq -i 1 -s 2023-04-21/obv
 ```
 
 ![On-Balance Volume](https://user-images.githubusercontent.com/85772166/233764081-ade1d33f-7524-41d0-9885-911a6270a11c.png)
